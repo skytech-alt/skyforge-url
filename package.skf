@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-url"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Разбор URL и генерация UTM-меток."
+    репозиторий = "github.com/skytech-alt/skyforge-url"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
